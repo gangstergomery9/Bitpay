@@ -226,4 +226,4 @@ BitPay is provided as a full free version with all features and updates included
 Unlock the full potential of your cryptocurrency portfolio with BitPay today! Download now and start managing your digital assets effortlessly.
 
 ---
-**Last updated:** 2026-09-25 18:26:04 UTC
+**Last updated:** 2026-09-25 22:10:10 UTC
